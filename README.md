@@ -1,6 +1,6 @@
 # docker-whale
 
-Revision: 1
+Revision: 2
 
 Run me : `docker run -p80:80 jukatu/whale-example`
 
